@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachePoc.API", "CachePoc.API\CachePoc.API.csproj", "{A0672910-6CC8-4D5E-B702-3CC311A73B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0672910-6CC8-4D5E-B702-3CC311A73B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0672910-6CC8-4D5E-B702-3CC311A73B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0672910-6CC8-4D5E-B702-3CC311A73B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0672910-6CC8-4D5E-B702-3CC311A73B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4D01D8-EE03-4BE5-A4AF-21C4DAEABEB5}
+	EndGlobalSection
+EndGlobal
